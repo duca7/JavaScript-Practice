@@ -16,4 +16,4 @@ function sumAll(arr){
     return sum;
 }     
 
-console.log(sumAll([4,4]));
+console.log(sumAll([9,8]));
